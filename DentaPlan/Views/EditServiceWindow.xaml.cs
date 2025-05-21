@@ -16,7 +16,6 @@ namespace DentaPlan.Views
             _service = service;
             _context = DentaPlanContext.Instance;
 
-            // Заполнение полей текущими данными
             ServiceNameTextBox.Text = _service.ServiceName;
             PriceTextBox.Text = _service.Price.ToString();
         }
@@ -28,7 +27,6 @@ namespace DentaPlan.Views
                 string serviceName = ServiceNameTextBox.Text.Trim();
                 string priceText = PriceTextBox.Text.Trim();
 
-                // Валидация
                 if (string.IsNullOrEmpty(serviceName) || string.IsNullOrEmpty(priceText))
                 {
                     MessageBox.Show("Заполните все поля!", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
@@ -41,7 +39,6 @@ namespace DentaPlan.Views
                     return;
                 }
 
-                // Обновление данных
                 _service.ServiceName = serviceName;
                 _service.Price = price;
                 _context.SaveChanges();

@@ -24,7 +24,6 @@ namespace DentaPlan.Views
                 string password = PasswordBox.Password.Trim();
                 string fullName = FullNameTextBox.Text.Trim();
 
-                // Валидация
                 if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password) || string.IsNullOrEmpty(fullName))
                 {
                     MessageBox.Show("Заполните все поля!", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
@@ -37,11 +36,10 @@ namespace DentaPlan.Views
                     return;
                 }
 
-                // Создание пользователя
                 var user = new User
                 {
                     Username = username,
-                    Password = password, // Пароль в открытом виде
+                    Password = password, 
                     Role = "Patient",
                     FullName = fullName
                 };

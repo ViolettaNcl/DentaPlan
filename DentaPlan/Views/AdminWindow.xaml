@@ -15,7 +15,6 @@
             <Button Content="Выход" Click="LogoutButton_Click" Width="100" Margin="0,0,10,0"/>
         </StackPanel>
         <TabControl Grid.Row="1">
-            <!-- Вкладка для управления стоматологами -->
             <TabItem Header="Стоматологи">
                 <Grid>
                     <Grid.RowDefinitions>
@@ -57,7 +56,6 @@
                     </DataGrid>
                 </Grid>
             </TabItem>
-            <!-- Вкладка для управления заявками -->
             <TabItem Header="Заявки">
                 <Grid>
                     <Grid.RowDefinitions>

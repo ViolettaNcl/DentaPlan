@@ -18,7 +18,6 @@ namespace DentaPlan.Views
             _dentist = dentist;
             _context = DentaPlanContext.Instance;
 
-            // Заполнение полей текущими данными
             UsernameTextBox.Text = _dentist.User.Username;
             FullNameTextBox.Text = _dentist.User.FullName;
             SpecializationTextBox.Text = _dentist.Specialization;
@@ -32,21 +31,18 @@ namespace DentaPlan.Views
                 string fullName = FullNameTextBox.Text.Trim();
                 string specialization = SpecializationTextBox.Text.Trim();
 
-                // Валидация
                 if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(fullName) || string.IsNullOrEmpty(specialization))
                 {
                     MessageBox.Show("Заполните все поля!", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                     return;
                 }
 
-                // Проверка уникальности логина (кроме текущего пользователя)
                 if (_context.Users.Any(u => u.Username == username && u.UserID != _dentist.UserID))
                 {
                     MessageBox.Show("Логин уже занят!", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                     return;
                 }
 
-                // Обновление данных
                 var user = _context.Users.Find(_dentist.UserID);
                 user.Username = username;
                 user.FullName = fullName;

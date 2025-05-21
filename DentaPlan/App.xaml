@@ -4,23 +4,19 @@
              StartupUri="Views/LoginWindow.xaml">
     <Application.Resources>
         <ResourceDictionary>
-            <!-- Цветовая палитра -->
             <SolidColorBrush x:Key="PrimaryColor" Color="#3F51B5"/>
-            <!-- Синий -->
+           
             <SolidColorBrush x:Key="AccentColor" Color="#FF4081"/>
-            <!-- Розовый -->
+            
             <SolidColorBrush x:Key="BackgroundColor" Color="#F5F5F5"/>
-            <!-- Светло-серый фон -->
+            
             <SolidColorBrush x:Key="TextColor" Color="#212121"/>
-            <!-- Темный текст -->
-
-            <!-- Стили для TextBlock -->
+           
             <Style TargetType="TextBlock">
                 <Setter Property="Foreground" Value="{StaticResource TextColor}"/>
                 <Setter Property="FontFamily" Value="Segoe UI"/>
             </Style>
 
-            <!-- Стили для TextBox и PasswordBox -->
             <Style TargetType="{x:Type TextBox}">
                 <Setter Property="BorderBrush" Value="{StaticResource PrimaryColor}"/>
                 <Setter Property="BorderThickness" Value="1"/>
@@ -72,7 +68,6 @@
                 </Setter>
             </Style>
 
-            <!-- Стили для ComboBox -->
             <Style TargetType="{x:Type ComboBox}">
                 <Setter Property="BorderBrush" Value="{StaticResource PrimaryColor}"/>
                 <Setter Property="BorderThickness" Value="1"/>
@@ -82,7 +77,6 @@
                 <Setter Property="FontFamily" Value="Segoe UI"/>
             </Style>
 
-            <!-- Стили для Button -->
             <Style TargetType="{x:Type Button}">
                 <Setter Property="Background" Value="{StaticResource PrimaryColor}"/>
                 <Setter Property="Foreground" Value="White"/>
@@ -103,7 +97,7 @@
                                 </Trigger>
                                 <Trigger Property="IsPressed" Value="True">
                                     <Setter Property="Background" Value="#D81B60"/>
-                                    <!-- Темнее акцента -->
+                                   
                                 </Trigger>
                             </ControlTemplate.Triggers>
                         </ControlTemplate>
@@ -111,7 +105,6 @@
                 </Setter>
             </Style>
 
-            <!-- Стили для DatePicker -->
             <Style TargetType="{x:Type DatePicker}">
                 <Setter Property="BorderBrush" Value="{StaticResource PrimaryColor}"/>
                 <Setter Property="BorderThickness" Value="1"/>
@@ -141,7 +134,6 @@
                 </Setter>
             </Style>
 
-            <!-- Стили для DataGrid -->
             <Style TargetType="{x:Type DataGrid}">
                 <Setter Property="Background" Value="White"/>
                 <Setter Property="BorderBrush" Value="{StaticResource PrimaryColor}"/>
@@ -164,7 +156,6 @@
                 <Setter Property="BorderThickness" Value="0"/>
             </Style>
 
-            <!-- Стили для TabControl -->
             <Style TargetType="{x:Type TabControl}">
                 <Setter Property="Background" Value="{StaticResource BackgroundColor}"/>
                 <Setter Property="BorderBrush" Value="{StaticResource PrimaryColor}"/>
@@ -172,7 +163,6 @@
                 <Setter Property="FontFamily" Value="Segoe UI"/>
             </Style>
 
-            <!-- Стили для TabItem -->
             <Style TargetType="{x:Type TabItem}">
                 <Setter Property="FontFamily" Value="Segoe UI"/>
                 <Setter Property="Foreground" Value="{StaticResource TextColor}"/>

@@ -39,18 +39,16 @@ namespace DentaPlan.Views
                     return;
                 }
 
-                // Создание пользователя
                 var user = new User
                 {
                     Username = username,
-                    Password = password, // Сохраняем пароль в открытом виде
+                    Password = password, 
                     Role = "Dentist",
                     FullName = fullName
                 };
                 _context.Users.Add(user);
                 _context.SaveChanges();
 
-                // Создание стоматолога
                 var dentist = new Dentist
                 {
                     UserID = user.UserID,

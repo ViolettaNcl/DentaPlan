@@ -20,7 +20,6 @@ namespace DentaPlan.Views
             string password = PasswordBox.Password.Trim();
             string selectedRole = (RoleComboBox.SelectedItem as ComboBoxItem)?.Tag.ToString();
 
-            // Валидация ввода
             if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password) || string.IsNullOrEmpty(selectedRole))
             {
                 MessageBox.Show("Заполните все поля!", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
@@ -29,7 +28,6 @@ namespace DentaPlan.Views
 
             try
             {
-                // Поиск пользователя
                 var user = DentaPlanContext.Instance.Users
                     .FirstOrDefault(u => u.Username == username && u.Role == selectedRole);
 
@@ -40,7 +38,6 @@ namespace DentaPlan.Views
                     return;
                 }
 
-                // Проверка пароля
                 if (user.Password == password)
                 {
                     switch (selectedRole)

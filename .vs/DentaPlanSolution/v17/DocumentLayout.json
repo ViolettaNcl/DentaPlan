@@ -1,7 +1,120 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{733B4678-3BBC-4EB6-A3E7-37FD27B4386F}|DentaPlan.Tests\\DentaPlan.Tests.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan.tests\\servicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733B4678-3BBC-4EB6-A3E7-37FD27B4386F}|DentaPlan.Tests\\DentaPlan.Tests.csproj|solutionrelative:dentaplan.tests\\servicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733B4678-3BBC-4EB6-A3E7-37FD27B4386F}|DentaPlan.Tests\\DentaPlan.Tests.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan.tests\\dentisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733B4678-3BBC-4EB6-A3E7-37FD27B4386F}|DentaPlan.Tests\\DentaPlan.Tests.csproj|solutionrelative:dentaplan.tests\\dentisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733B4678-3BBC-4EB6-A3E7-37FD27B4386F}|DentaPlan.Tests\\DentaPlan.Tests.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan.tests\\appointmenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733B4678-3BBC-4EB6-A3E7-37FD27B4386F}|DentaPlan.Tests\\DentaPlan.Tests.csproj|solutionrelative:dentaplan.tests\\appointmenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\patientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\patientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\patientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\patientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\editservicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\editservicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\editservicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\editservicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\editdentistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\editdentistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\editdentistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\editdentistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\dentistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\dentistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\dentistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\dentistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\addservicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\addservicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\addservicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\addservicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\adddentistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\adddentistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\views\\adddentistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\views\\adddentistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\data\\dentaplancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\data\\dentaplancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\models\\dentist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\models\\dentist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|c:\\users\\user\\source\\repos\\dentaplansolution\\dentaplan\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78427DA-D5E2-4B7C-BEA8-F2A33908893D}|DentaPlan\\DentaPlan.csproj|solutionrelative:dentaplan\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 31,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +143,364 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan.Tests\\ServiceTests.cs",
+              "RelativeDocumentMoniker": "DentaPlan.Tests\\ServiceTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan.Tests\\ServiceTests.cs",
+              "RelativeToolTip": "DentaPlan.Tests\\ServiceTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:21:37.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DentistTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan.Tests\\DentistTests.cs",
+              "RelativeDocumentMoniker": "DentaPlan.Tests\\DentistTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan.Tests\\DentistTests.cs",
+              "RelativeToolTip": "DentaPlan.Tests\\DentistTests.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:21:34.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan.Tests\\AppointmentTests.cs",
+              "RelativeDocumentMoniker": "DentaPlan.Tests\\AppointmentTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan.Tests\\AppointmentTests.cs",
+              "RelativeToolTip": "DentaPlan.Tests\\AppointmentTests.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:21:30.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\App.xaml",
+              "RelativeDocumentMoniker": "DentaPlan\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\App.xaml",
+              "RelativeToolTip": "DentaPlan\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T20:20:48.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\App.config",
+              "RelativeDocumentMoniker": "DentaPlan\\App.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\App.config",
+              "RelativeToolTip": "DentaPlan\\App.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-21T20:20:45.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "DentaPlan\\Views\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:20:32.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\RegisterWindow.xaml",
+              "RelativeToolTip": "DentaPlan\\Views\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T20:20:29.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\PatientWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\PatientWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\PatientWindow.xaml.cs",
+              "RelativeToolTip": "DentaPlan\\Views\\PatientWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:20:21.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\PatientWindow.xaml",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\PatientWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\PatientWindow.xaml",
+              "RelativeToolTip": "DentaPlan\\Views\\PatientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T20:20:17.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "DentaPlan\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:20:02.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "DentaPlan\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T20:19:58.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditServiceWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\EditServiceWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\EditServiceWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\EditServiceWindow.xaml.cs",
+              "RelativeToolTip": "DentaPlan\\Views\\EditServiceWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:19:48.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditServiceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\EditServiceWindow.xaml",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\EditServiceWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\EditServiceWindow.xaml",
+              "RelativeToolTip": "DentaPlan\\Views\\EditServiceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T20:19:45.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditDentistWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\EditDentistWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\EditDentistWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\EditDentistWindow.xaml.cs",
+              "RelativeToolTip": "DentaPlan\\Views\\EditDentistWindow.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:19:34.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditDentistWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\EditDentistWindow.xaml",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\EditDentistWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\EditDentistWindow.xaml",
+              "RelativeToolTip": "DentaPlan\\Views\\EditDentistWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T20:19:32.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DentistWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\DentistWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\DentistWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\DentistWindow.xaml.cs",
+              "RelativeToolTip": "DentaPlan\\Views\\DentistWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:19:28.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DentistWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\DentistWindow.xaml",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\DentistWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\DentistWindow.xaml",
+              "RelativeToolTip": "DentaPlan\\Views\\DentistWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T20:19:23.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "DentaPlan\\Views\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:19:07.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\AdminWindow.xaml",
+              "RelativeToolTip": "DentaPlan\\Views\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T20:18:53.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddServiceWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\AddServiceWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\AddServiceWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\AddServiceWindow.xaml.cs",
+              "RelativeToolTip": "DentaPlan\\Views\\AddServiceWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:18:46.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddServiceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\AddServiceWindow.xaml",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\AddServiceWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\AddServiceWindow.xaml",
+              "RelativeToolTip": "DentaPlan\\Views\\AddServiceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T20:18:42.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddDentistWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\AddDentistWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\AddDentistWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\AddDentistWindow.xaml.cs",
+              "RelativeToolTip": "DentaPlan\\Views\\AddDentistWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:18:23.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddDentistWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\AddDentistWindow.xaml",
+              "RelativeDocumentMoniker": "DentaPlan\\Views\\AddDentistWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Views\\AddDentistWindow.xaml",
+              "RelativeToolTip": "DentaPlan\\Views\\AddDentistWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T20:18:11.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DentaPlanContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Data\\DentaPlanContext.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Data\\DentaPlanContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Data\\DentaPlanContext.cs",
+              "RelativeToolTip": "DentaPlan\\Data\\DentaPlanContext.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:18:04.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Models\\User.cs",
+              "RelativeToolTip": "DentaPlan\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:18:01.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Models\\Service.cs",
+              "RelativeToolTip": "DentaPlan\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:18:00.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dentist.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Models\\Dentist.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Models\\Dentist.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Models\\Dentist.cs",
+              "RelativeToolTip": "DentaPlan\\Models\\Dentist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:17:59.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "DentaPlan\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\Models\\Appointment.cs",
+              "RelativeToolTip": "DentaPlan\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:17:52.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

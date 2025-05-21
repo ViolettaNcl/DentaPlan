@@ -22,16 +22,13 @@ namespace DentaPlan.Views
         {
             try
             {
-                // Загрузка стоматологов
                 DentistsDataGrid.ItemsSource = _context.Dentists
                     .Include(d => d.User)
                     .ToList();
 
-                // Загрузка услуг
                 ServicesDataGrid.ItemsSource = _context.Services
                     .ToList();
 
-                // Загрузка заявок
                 AppointmentsDataGrid.ItemsSource = _context.Appointments
                     .Include(a => a.Patient)
                     .Include(a => a.Dentist).ThenInclude(d => d.User)
