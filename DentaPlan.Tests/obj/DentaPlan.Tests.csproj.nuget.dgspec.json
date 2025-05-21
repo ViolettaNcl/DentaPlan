@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan.Tests\\DentaPlan.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan.Tests\\DentaPlan.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan.Tests\\DentaPlan.Tests.csproj",
+        "projectName": "DentaPlan.Tests",
+        "projectPath": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan.Tests\\DentaPlan.Tests.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\DentaPlan.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\DentaPlan.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\DentaPlan.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\DentaPlan.csproj",
+        "projectName": "DentaPlan",
+        "projectPath": "C:\\Users\\User\\source\\repos\\DentaPlanSolution\\DentaPlan\\DentaPlan.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

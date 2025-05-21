@@ -1,0 +1,36 @@
+@startuml
+class User {
+  UserID: int
+  Username: string
+  PasswordHash: string
+  Role: string
+  FullName: string
+}
+
+class Dentist {
+  DentistID: int
+  UserID: int
+  Specialization: string
+}
+
+class Service {
+  ServiceID: int
+  ServiceName: string
+  Price: decimal
+}
+
+class Appointment {
+  AppointmentID: int
+  PatientID: int
+  DentistID: int
+  ServiceID: int
+  AppointmentDateTime: datetime
+  Status: string
+}
+
+User "1" -- "0..1" Dentist
+User "1" -- "0..*" Appointment
+Dentist "1" -- "0..*" Appointment
+Service "1" -- "0..*" Appointment
+
+@enduml

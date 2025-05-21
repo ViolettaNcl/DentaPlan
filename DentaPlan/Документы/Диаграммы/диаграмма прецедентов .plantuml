@@ -1,0 +1,38 @@
+@startuml
+left to right direction
+
+actor "Администратор" as Admin #FF6347
+actor "Пациент" as Patient #98FB98
+actor "Стоматолог" as Dentist #ADD8E6
+
+rectangle "Система DentaPlan" {
+
+  (Вход в систему) as UC1
+  (Управление стоматологами) as UC2
+  (Управление услугами) as UC3
+  (Управление заявками) as UC4
+  (Подача заявки) as UC5
+  (Просмотр заявок) as UC6
+  (Выход из системы) as UC7
+
+  ' Все пользователи могут выполнять следующие действия:
+  Admin --> UC1
+  Admin --> UC6
+  Admin --> UC7
+
+  Patient --> UC1
+  Patient --> UC5
+  Patient --> UC6
+  Patient --> UC7
+
+  Dentist --> UC1
+  Dentist --> UC6
+  Dentist --> UC7
+
+  ' Только Администратор может выполнять эти действия:
+  Admin --> UC2
+  Admin --> UC3
+  Admin --> UC4
+}
+
+@enduml
